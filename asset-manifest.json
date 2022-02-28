@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NicoIhlePortfolio/static/css/main.a9f95e1c.chunk.css",
+    "main.js": "/NicoIhlePortfolio/static/js/main.37bffa06.chunk.js",
+    "main.js.map": "/NicoIhlePortfolio/static/js/main.37bffa06.chunk.js.map",
+    "runtime-main.js": "/NicoIhlePortfolio/static/js/runtime-main.a18c4056.js",
+    "runtime-main.js.map": "/NicoIhlePortfolio/static/js/runtime-main.a18c4056.js.map",
+    "static/js/2.16bc081f.chunk.js": "/NicoIhlePortfolio/static/js/2.16bc081f.chunk.js",
+    "static/js/2.16bc081f.chunk.js.map": "/NicoIhlePortfolio/static/js/2.16bc081f.chunk.js.map",
+    "static/js/3.6d2bcbef.chunk.js": "/NicoIhlePortfolio/static/js/3.6d2bcbef.chunk.js",
+    "static/js/3.6d2bcbef.chunk.js.map": "/NicoIhlePortfolio/static/js/3.6d2bcbef.chunk.js.map",
+    "index.html": "/NicoIhlePortfolio/index.html",
+    "static/css/main.a9f95e1c.chunk.css.map": "/NicoIhlePortfolio/static/css/main.a9f95e1c.chunk.css.map",
+    "static/js/2.16bc081f.chunk.js.LICENSE.txt": "/NicoIhlePortfolio/static/js/2.16bc081f.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/NicoIhlePortfolio/static/media/IphoneBackground.d0bc5106.jpg",
+    "static/media/apfel(1).31a8206d.png": "/NicoIhlePortfolio/static/media/apfel(1).31a8206d.png",
+    "static/media/safari.b75a2da9.png": "/NicoIhlePortfolio/static/media/safari.b75a2da9.png",
+    "static/media/spaceman.5ec7fcfa.png": "/NicoIhlePortfolio/static/media/spaceman.5ec7fcfa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18c4056.js",
+    "static/js/2.16bc081f.chunk.js",
+    "static/css/main.a9f95e1c.chunk.css",
+    "static/js/main.37bffa06.chunk.js"
+  ]
+}
