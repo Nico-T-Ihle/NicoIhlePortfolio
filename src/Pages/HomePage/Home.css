@@ -1,0 +1,252 @@
+.Text_color{
+    color: var(--system-color-pageColorLighter);
+}
+
+.Text_color1{
+    color: hsla(0, 0%, 100%, 0.9);
+}
+  
+  .Home_container{
+    margin-top: 5rem;
+    background-image: var(--system-backgroundcolor-body);
+  }
+
+  .Home_container2{
+    background: #1a1a1a;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    height: 75vh;
+    box-shadow: -4px -4px 14px -5px #333;
+  }
+  
+  h2, h3 {
+    color: #1a1a1a;
+  }
+  
+  .Block_container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 12%;
+  }
+  
+  .NI{
+    width: 50%;
+    font-size: 35px;
+  }
+  
+  .iphonex {
+    height: 500px;
+    width: 240px;
+    position: relative;
+  }
+  
+  .iphonex__case {
+    position: absolute;
+    background: transparent;
+    width: 235px;
+    height: 475px;
+    border: 11px solid #151515;
+    box-sizing: border-box;
+    border-radius: 35px;
+    left: 3px;
+  }
+  
+  .iphonex__top {
+    position: absolute;
+    background: black;
+    height: 20px;
+    width: 213px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+  }
+  
+  .iphonex__time {
+    position: absolute;
+    top: 3px;
+    left: 14px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: white;
+  }
+  .iphonex__wifi {
+    position: absolute;
+    right: 25px;
+    font-size: 10px;
+    top: 3px;
+  }
+  .iphonex__battery {
+    position: absolute;
+    right: 8px;
+    font-size: 10px;
+    top: 3px;
+  }
+  
+  .iphonex__notch {
+    background: #151515;
+    height: 15px;
+    width: 115px;
+    position: absolute;
+    left: 48px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+  
+  .iphonex__speaker {
+    background: rgb(51, 51, 51);
+    width: 30px;
+    height: 6px;
+    border-radius: 8px;
+    position: absolute;
+    left: 43px;
+  }
+  
+  .iphonex__camera {
+    background: rgb(51, 51, 51);
+    width: 7px;
+    height: 7px;
+    border-radius: 8px;
+    position: absolute;
+    left: 80px;
+  }
+  
+  .iphonex__screen {
+    width: 214px;
+    height: 435px;
+    background-image: url('/src/Images/IphoneBackground.jpg');
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    top: 20px;
+    position: absolute;
+  }
+  
+  .iphonex__power {
+    width: 3px;
+    height: 19px;
+    background: rgb(0, 0, 0);
+    position: absolute;
+    left: 0;
+    top: 62px;
+  }
+  .iphonex__volume {
+    width: 3px;
+    height: 32px;
+    background: rgb(0, 0, 0);
+    position: absolute;
+    left: 0px;
+    top: 98px;
+  }
+  .iphonex__volume--down {
+    top: 142px;
+  }
+  
+  .Iphone_Aktion_Image{
+    margin-top: 37vh;
+    margin-right: 8vh;
+    height: 5vh;
+    margin-bottom: 11vh;
+    margin-left: 3vh;
+  }
+
+  .Iphone_Apple_Image{
+    height: 5vh;
+    margin-bottom: 11vh;
+    margin-left: -7vh;
+  }
+
+  .Iphone_Apple_Safari{
+    height: 5vh;
+    margin-bottom: 11vh;
+    margin-left: 1vh;
+  }
+
+  .Animations_Text{
+    font-family: "Ubuntu Mono", monospace;
+    font-weight: 600;
+    color: var(--system-color-pageColorLighter);
+  }
+
+  .NI_About_me_Container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .NI_About_me_Text_Container_Box{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .NI_About_me_Text_Box{
+    background: #fff;
+    margin-top: 10%;
+    border-radius: 5px;
+  }
+
+  .NI_About_me_Text_Box_Header{
+    color: #1a1a1a;
+  }
+
+  .NI_About_me_Text{
+    width: 65%;
+  }
+
+  .SpacemanMovePosition{
+    
+  }
+
+  .SpacemanMove{
+    animation: MoveupDown 1s linear infinite;
+    position: relative;
+    padding-top: 20%;
+  }
+
+  @keyframes MoveupDown{
+    0%,80%{
+      bottom: 0%;
+    }
+    30% {
+      bottom: 17.5px;
+    }
+  }
+
+  
+  
+  @media only screen and (max-width: 800px) {
+    .Home_container{
+      margin-top: 4rem;
+      background-image: var(--system-backgroundcolor-body);
+    }
+
+    .NI{
+      width: 100%;
+      font-size: 21px;
+      margin-bottom: 3vh;
+    }
+
+    .Iphone_Aktion_Image {
+        margin-top: 46vh;
+        margin-right: 8vh;
+        height: 5vh;
+        margin-bottom: 2vh;
+        margin-left: 4vh;
+    }
+
+    .Iphone_Apple_Image {
+        height: 5vh;
+        margin-bottom: 2vh;
+        margin-left: -7vh;
+    }
+
+    .Iphone_Apple_Safari {
+        height: 5vh;
+        margin-bottom: 2vh;
+        margin-left: 1vh;
+    }
+  
+  }
+  
+  
+  
+  
+  

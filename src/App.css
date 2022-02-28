@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+  --system-color-pageColorLighter: hsla(0, 0%, 100%, 0.5);
+  --system-color-modal: rgb(26, 26, 26);
+  --system-color-mobile-nav: rgb(41, 41, 41);
+  --system-backgroundcolor-body: linear-gradient( 90deg,#34b093  0%, rgb(97, 37, 223) 100%)
+}
+
+body{
+  /* background-image:var(--system-backgroundcolor-body) */
+  /* background-image:linear-gradient(180deg, cornflowerblue 0%, wheat 100%) */
+}
+
