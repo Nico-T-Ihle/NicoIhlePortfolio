@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NicoIhlePortfolio/static/css/main.c232bb56.chunk.css",
+    "main.css": "/NicoIhlePortfolio/static/css/main.7ac86b16.chunk.css",
     "main.js": "/NicoIhlePortfolio/static/js/main.7fc574c9.chunk.js",
     "main.js.map": "/NicoIhlePortfolio/static/js/main.7fc574c9.chunk.js.map",
     "runtime-main.js": "/NicoIhlePortfolio/static/js/runtime-main.5a51cddf.js",
@@ -12,7 +12,7 @@
     "static/js/3.a864bc9a.chunk.js.map": "/NicoIhlePortfolio/static/js/3.a864bc9a.chunk.js.map",
     "index.html": "/NicoIhlePortfolio/index.html",
     "static/css/2.383c0125.chunk.css.map": "/NicoIhlePortfolio/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.c232bb56.chunk.css.map": "/NicoIhlePortfolio/static/css/main.c232bb56.chunk.css.map",
+    "static/css/main.7ac86b16.chunk.css.map": "/NicoIhlePortfolio/static/css/main.7ac86b16.chunk.css.map",
     "static/js/2.2739f129.chunk.js.LICENSE.txt": "/NicoIhlePortfolio/static/js/2.2739f129.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/NicoIhlePortfolio/static/media/pexels-sora-shimazaki-5926380.0372b1ae.jpg",
     "static/media/apfel(1).31a8206d.png": "/NicoIhlePortfolio/static/media/apfel(1).31a8206d.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.5a51cddf.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.2739f129.chunk.js",
-    "static/css/main.c232bb56.chunk.css",
+    "static/css/main.7ac86b16.chunk.css",
     "static/js/main.7fc574c9.chunk.js"
   ]
 }
