@@ -12,11 +12,12 @@
   --system-color-pageColorLighter: hsla(0, 0%, 100%, 0.5);
   --system-color-modal: rgb(26, 26, 26);
   --system-color-mobile-nav: rgb(41, 41, 41);
-  --system-backgroundcolor-body: linear-gradient( 90deg,#34b093  0%, rgb(97, 37, 223) 100%)
+  --system-backgroundcolor-body: linear-gradient( 90deg,#00aeff  0%, rgb(97, 37, 223) 100%)
 }
 
 body{
   /* background-image:var(--system-backgroundcolor-body) */
   /* background-image:linear-gradient(180deg, cornflowerblue 0%, wheat 100%) */
+
 }
 

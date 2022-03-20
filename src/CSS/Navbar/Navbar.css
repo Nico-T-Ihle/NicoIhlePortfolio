@@ -22,14 +22,14 @@
   padding: 20px 20px;
   text-decoration: none;
   color: rgb(255, 255, 255);
-  font-size: 15px;
+  font-size: 18px;
   font-weight: bold;
+  font-family: "Ubuntu Mono", monospace;
 }
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: #dfdfdf;
-  color: rgb(0, 0, 0);
+  color: rgb(64, 84, 234);
   letter-spacing: 1.8px;
 }
 
@@ -129,7 +129,7 @@
     float: left;
   }
   .header li a {
-    padding: 20px 30px;
+    padding: 20px 20px;
   }
   .header .menu {
     clear: none;
@@ -143,7 +143,18 @@
 }
 
 @media only screen and (max-width: 800px) {
+  
+  .header {
+    height: 13.6vh;
+  }
+  
+  .header .menu-icon{
+    margin-top: 4vh;
+  }
 
+  .header .logo{
+    margin-top: 4vh;
+  }
 }
 
 
