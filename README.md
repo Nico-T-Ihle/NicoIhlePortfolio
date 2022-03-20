@@ -1,3 +1,0 @@
-# Nico Ihle Portfolio 👨‍💻
-
-##
