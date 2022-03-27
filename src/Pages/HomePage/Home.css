@@ -52,7 +52,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     padding: 14%;
-    padding-left: 25%;
+    padding-left: 20%;
   }
   
   .NI{
@@ -220,8 +220,9 @@ body{
 
   .AboutME
   {
-    background-image: linear-gradient(97deg, #0f0f0f  20%, #282828 100%);
+    /* background-image: linear-gradient(97deg, #0f0f0f  20%, #282828 100%); */
     height: 980px;
+    background: #282828;
   }
 
   .span_2_of_2 {
@@ -241,7 +242,7 @@ body{
 
   
 .animated-button {
-  background: linear-gradient(-30deg, #0b1b3d 50%, #08142b 50%);
+  background: var(--system-backgroundcolor-body);
   padding: 20px 40px;
   margin: 12px;
   display: inline-block;
@@ -412,7 +413,7 @@ body{
 }
 
 .animated-button1 {
-  background: linear-gradient(20deg, #8838b480 50%, #00aeff96 50%);
+  background: var(--system-backgroundcolor-body);
   padding: 20px 40px;
   margin: 12px;
   display: inline-block;
@@ -2470,7 +2471,7 @@ body{
     padding-left: 7vh;
 	}
   .Text_Inhalt_Aboutme{
-    margin-left: 16%;
+    margin-left: 8%;
     margin-right: 10%;
     word-break: break-word;
   }
@@ -2594,6 +2595,12 @@ background-color: #fff;
     /* background-image: url('./component/Bilder/Unbenannt6.png'); */
   }
 
+  .span_1_of_2 {
+ 
+    padding-left: 0%;
+  }
+
+
 }
 
 .AboutmeTextContainer2
@@ -2613,8 +2620,9 @@ background-color: #fff;
   }
 
   .AboutME {
-    background-image: linear-gradient(97deg, #0f0f0f 20%, #282828 100%);
-    height: 1240px;
+    /* background-image: linear-gradient(97deg, #0f0f0f 20%, #282828 100%); */
+    height: 1115px;
+    background: #282828;
   }
 
   .Home_container3 {
@@ -2623,6 +2631,27 @@ background-color: #fff;
     padding-bottom: 20%;
   }
 
+  /* .Nico_image_Aboutme {
+    padding: 15px;
+    width: 55vh;
+    border-radius: 25px;
+  } */
+
+  .Block_container {
+
+    padding-left: 19%;
+  }
+
+  .Text_Inhalt_Aboutme {
+    margin-top: 3vh;
+  }
+
+  .Nico_image_Aboutme {
+    width: 100%;
+    border-radius: 55px;
+    padding: 13%;
+    margin-top: 1%;
+  }
 }
 
 
@@ -2639,7 +2668,7 @@ h2{
 
 
 .Text_Inhalt_Aboutme{
-  margin-left: 16%;
+  margin-left: 8%;
   margin-top: 3vh;
 }
 
@@ -2647,6 +2676,7 @@ h2{
   margin-left: 8%;
   margin-top: 3vh;
   color: #b5b5b5;
+  padding-left: 0% !important;
 }
 
 

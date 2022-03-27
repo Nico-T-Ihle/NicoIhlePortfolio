@@ -11,7 +11,7 @@ import Spacemann from '/dev/ReactWeb/fetch/src/Images/spaceman.png';
 import reactLogo from '../HomePage/react-logo.svg';
 import brackets from '../HomePage/brackets.svg';
 import digital from '../HomePage/digital-marketing.svg';
-import me from '../HomePage/NicoEmoji.jpg'
+import me from '../HomePage/IMG_0126.png'
 
 import Footer from "../footer";
 import AOS from 'aos';
@@ -51,7 +51,7 @@ function Home() {
               <span className="stars"></span>
               <span className="stars"></span>
             </section>
-            <Typical className="Animations_Text" steps={['Freelancer for,', 1000, 'Software', 1000, 'Websites', 500, ]}  loop={Infinity} />
+            <Typical className="Animations_Text" steps={['Freelancer for,', 1000, 'Software', 1000, 'Websites', 1000, ]}  loop={Infinity} />
         </div>
         </div>
 
