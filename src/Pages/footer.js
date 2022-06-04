@@ -1,5 +1,8 @@
 import { Link } from 'react-router-dom';
 import '../../src/CSS/footer.css'
+import { Instagram } from 'grommet-icons';
+import { Github } from 'grommet-icons';
+import { Linkedin } from 'grommet-icons';
 
 function Footer() 
 {
@@ -7,9 +10,15 @@ function Footer()
 return (
     <footer class="footer-distributed">
         <div class="footer-right">
-        <a target="_blank" href="https://www.instagram.com/nico.yuy/"></a>
-        <a target="_blank" href="https://github.com/Nico-T-Ihle"></a>
-        <a target="_blank" href="https://www.linkedin.com/in/nico-ihle"> </a>
+        <a target="_blank" href="https://www.instagram.com/nico.yuy/">
+            <Instagram className='Icons' color='plain' size='xlarge' ></Instagram> 
+        </a>
+        <a target="_blank" href="https://github.com/Nico-T-Ihle">
+            <Github className='Icons' color='plain' size='xlarge'></Github>
+        </a>
+        <a target="_blank" href="https://www.linkedin.com/in/nico-ihle"> 
+            <Linkedin className='Icons' color='plain' size='xlarge'></Linkedin>
+        </a>
         </div>
         <div class="footer-left">
         <p class="footer-links">
