@@ -59,7 +59,7 @@ function Home() {
               <span className="stars"></span>
               <span className="stars"></span>
             </section>
-            <Typical className="Animations_Text" steps={['Freelancer for,', 1000, 'Software', 1000, 'Websites', 1000,]} loop={Infinity} />
+            <Typical className="Animations_Text" steps={['Freelancer for,', 1000, 'Apps', 1000, 'Websites', 1000,]} loop={Infinity} />
           </div>
         </div>
         <div >
@@ -74,9 +74,6 @@ function Home() {
                   <img className='Iphone_Aktion_Image' src={Iphone_datein} />
                   </a>
                 </span>
-              <span>
-                <img className='Iphone_Apple_Image' src={Iphone_apfel} />
-              </span>
             </div>
           </div>
         </div>
@@ -122,8 +119,8 @@ function Home() {
             <div>
               <img src={reactLogo} alt="" />
             </div>
-            <h5>React Projects</h5>
-            <p> I work with certain design tools to create high-fidelity designs and prototypes. I design accessible and usable projects. </p>
+            <h5>React Native</h5>
+            <p>The reason why i love to create apps is the possibility you have when you open a app. And i think a app open something you didnt know beforehand.</p>
           </div>
 
           <div class="services-card development aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
@@ -139,7 +136,7 @@ function Home() {
               <img src={digital} alt="" />
             </div>
             <h5>Learning</h5>
-            <p> I identify and evaluates new digital technologies and use web analytics tools to measure site traffic to better optimize marketing campaigns. </p>
+            <p> I identify love to explore new things that blows my mind so that i can read everything to be my best to understand and develop new things. </p>
           </div>
         </div>
       </div>

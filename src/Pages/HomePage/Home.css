@@ -20,7 +20,7 @@ path{
   width: 225px;
   height: 480px;
   background-image: linear-gradient(60deg, #f2f2f2 -52%, #1f1f1f 95%);
-  border-radius: 40px;
+  border-radius: 22px;
   box-shadow: 0px 0px 0px 1px #1f1f1f, 0px 0px 0px 13px #191919, 0px 0px 0px 1px #111;
   margin-top: .5rem;
   margin-bottom: 1.5rem;
@@ -98,12 +98,13 @@ path{
 }
 .iphone-x span {
   bottom: 50px;
-  width: 40px;
-  height: 40px;
-  background-color: rgba(255, 255, 255, 0.87);
+  width: 27px;
+  height: 37px;
+  background-color: rgba(255, 255, 255, 0);
   border-radius: 50%;
-  left: 30px;
+  left: 88px;
 }
+
 .iphone-x span + span {
   left: auto;
   right: 30px;
@@ -239,7 +240,7 @@ path{
 }
   
   .Home_container{
-    margin-top: 5rem;
+
     background-image: var(--system-backgroundcolor-body);
   }
 
@@ -2566,7 +2567,7 @@ path{
   
   @media only screen and (max-width: 800px) {
     .Home_container{
-      margin-top: 4rem;
+
       background-image: var(--system-backgroundcolor-body);
     }
 
